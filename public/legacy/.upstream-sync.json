@@ -1,0 +1,341 @@
+{
+  "syncedAtUtc": "2026-04-01T17:47:21.767Z",
+  "sourceRootDir": "docs",
+  "targetRootDir": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy",
+  "upstreamSources": [
+    {
+      "name": "attackjom",
+      "repoUrl": "https://github.com/attackjom/tong-calc-ro-host.git",
+      "branch": "main",
+      "commit": "b0e701d0032d1ac1ddebbcfdb43f1c097d6a53b7",
+      "status": "ok",
+      "warnings": [],
+      "dataFiles": [
+        {
+          "sourceFile": "assets\\demo\\data\\hp_sp_table.json",
+          "targetFile": "assets\\demo\\data\\hp_sp_table.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\hp_sp_table.json",
+          "mode": "skip_array_safety",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": true,
+          "reason": "source_len_62_target_len_62"
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\item.json",
+          "targetFile": "assets\\demo\\data\\item.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\item.json",
+          "mode": "merge_object",
+          "addedTopLevelKeys": 136,
+          "addedNestedFields": 282,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\monster.json",
+          "targetFile": "assets\\demo\\data\\monster.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\monster.json",
+          "mode": "merge_object",
+          "addedTopLevelKeys": 21,
+          "addedNestedFields": 141,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x.json",
+          "targetFile": "assets\\demo\\data\\x.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_presetSummaryMap.json",
+          "targetFile": "assets\\demo\\data\\x_presetSummaryMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_presetSummaryMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "targetFile": "assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "targetFile": "assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        }
+      ],
+      "imageDirs": [
+        {
+          "dir": "assets/demo/images/items",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 6887
+        },
+        {
+          "dir": "assets/demo/images/jobs",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 40
+        },
+        {
+          "dir": "assets/demo/images/others",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 2
+        }
+      ]
+    },
+    {
+      "name": "diwesta",
+      "repoUrl": "https://github.com/Diwesta-Nut/tong-calc-ro-host.git",
+      "branch": "main",
+      "commit": "a1bcc2ee5abd739822541cc4be7e8ee240427049",
+      "status": "ok",
+      "warnings": [],
+      "dataFiles": [
+        {
+          "sourceFile": "assets\\demo\\data\\hp_sp_table.json",
+          "targetFile": "assets\\demo\\data\\hp_sp_table.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\hp_sp_table.json",
+          "mode": "skip_array_safety",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": true,
+          "reason": "source_len_62_target_len_62"
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\item.json",
+          "targetFile": "assets\\demo\\data\\item.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\item.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\monster.json",
+          "targetFile": "assets\\demo\\data\\monster.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\monster.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x.json",
+          "targetFile": "assets\\demo\\data\\x.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_presetSummaryMap.json",
+          "targetFile": "assets\\demo\\data\\x_presetSummaryMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_presetSummaryMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "targetFile": "assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "targetFile": "assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        }
+      ],
+      "imageDirs": [
+        {
+          "dir": "assets/demo/images/items",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 6241
+        },
+        {
+          "dir": "assets/demo/images/jobs",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 40
+        },
+        {
+          "dir": "assets/demo/images/others",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 2
+        }
+      ]
+    },
+    {
+      "name": "turugrura",
+      "repoUrl": "https://github.com/turugrura/tong-calc-ro-host.git",
+      "branch": "main",
+      "commit": "bfdfa7299441e66942feb44c7ca06089209bbf2d",
+      "status": "ok",
+      "warnings": [],
+      "dataFiles": [
+        {
+          "sourceFile": "assets\\demo\\data\\hp_sp_table.json",
+          "targetFile": "assets\\demo\\data\\hp_sp_table.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\hp_sp_table.json",
+          "mode": "skip_array_safety",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": true,
+          "reason": "source_len_62_target_len_62"
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\item.json",
+          "targetFile": "assets\\demo\\data\\item.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\item.json",
+          "mode": "merge_object",
+          "addedTopLevelKeys": 3,
+          "addedNestedFields": 109,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\monster.json",
+          "targetFile": "assets\\demo\\data\\monster.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\monster.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x.json",
+          "targetFile": "assets\\demo\\data\\x.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x.json",
+          "mode": "merge_object",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 17,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_presetSummaryMap.json",
+          "targetFile": "assets\\demo\\data\\x_presetSummaryMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_presetSummaryMap.json",
+          "mode": "merge_object",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 17,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "targetFile": "assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_summaryClassSkillMap.json",
+          "mode": "merge_object",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 17,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        },
+        {
+          "sourceFile": "assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "targetFile": "assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "file": "C:\\GitHub\\Calc\\rocalc-ts\\public\\legacy\\assets\\demo\\data\\x_totalSelectedJobMap.json",
+          "mode": "no_changes",
+          "addedTopLevelKeys": 0,
+          "addedNestedFields": 0,
+          "copiedFile": false,
+          "replacedArray": false,
+          "skippedSafety": false,
+          "reason": null
+        }
+      ],
+      "imageDirs": [
+        {
+          "dir": "assets/demo/images/items",
+          "copiedMissingFiles": 4,
+          "sourceFileCount": 6500
+        },
+        {
+          "dir": "assets/demo/images/jobs",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 40
+        },
+        {
+          "dir": "assets/demo/images/others",
+          "copiedMissingFiles": 0,
+          "sourceFileCount": 2
+        }
+      ]
+    }
+  ],
+  "note": "Merged from multiple upstream repositories by adding missing data keys/fields and missing images only."
+}

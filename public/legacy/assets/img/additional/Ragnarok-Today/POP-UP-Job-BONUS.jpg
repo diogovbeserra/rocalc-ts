@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" data-critters-container>
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RFWHDVBFNE"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-RFWHDVBFNE');
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3505817621527038" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <meta name="google-adsense-account" content="ca-pub-3505817621527038">
+    <title>Ragnarok Online Renewal Calc</title>
+    <meta name="keywords" content="Ragnarok Online, Ragnarok, RO, RO Online, Ragnarok Online Calculator, RO Calculator, Ragnarok Online Calc, RO Calc, Ragnarok Online build calculator, Ragnarok Online stat calculator, Ragnarok Online equipment calculator, Ragnarok Online calculadora de stats, RO calculadora de daño, build RO, RO build, build calculator, calculadora de daño, LATAM, iRO, euRO, Renewal, PvM, PvP, MVP, WoE, 
+Ragnarok Online Calculadora, RO Calculadora, calculadora de status, calculadora de dano, ragnarok brasil, ragnarok br, RO BR">
+    <meta name="description" content="The ultimate Ragnarok Online Renewal Cal to simulate stats, equip, status resistance, skills and damage from chars in MVP, PvE and PvP environments.">
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <!-- Theme CSS loaded dynamically -->
+  <style>@-webkit-keyframes p-fadein{0%{opacity:0}to{opacity:1}}@-webkit-keyframes p-icon-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}*{box-sizing:border-box}html{height:100%;font-size:14px}body{font-family:var(--font-family);color:var(--text-color);background-color:var(--surface-ground);margin:0;padding:0;min-height:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}h1{margin:1.5rem 0 1rem;font-family:inherit;font-weight:500;line-height:1.2;color:var(--surface-900)}h1:first-child{margin-top:0}h1{font-size:2.5rem}p{margin:0 0 1rem;line-height:1.5}p:last-child{margin-bottom:0}
+</style><link rel="stylesheet" href="styles.W7PT3K3A.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.W7PT3K3A.css"></noscript><link rel="modulepreload" href="chunk-7QI7EEGG.js"><link rel="modulepreload" href="chunk-B37WI4QT.js"><link rel="modulepreload" href="chunk-GFV3JY6Q.js"><link rel="modulepreload" href="chunk-B3IGP6OJ.js"><link rel="modulepreload" href="chunk-LEFLFAC7.js"></head>
+
+  <body>
+    <noscript>
+      <h1>Ragnarok Online Renewal Calculator</h1>
+      <p>The ultimate Ragnarok Online Renewal Cal to simulate stats, equip, status resistance, skills and damage from chars in MVP, PvE and PvP environments.</p>
+    </noscript>
+    <app-root></app-root>
+  <script src="polyfills.USU2K2HP.js" type="module"></script><script src="scripts.4FWRIP5I.js" defer></script><script src="main.C6M37RA5.js" type="module"></script></body>
+</html>
